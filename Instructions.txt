@@ -1,0 +1,6 @@
+#For Running the demo on localhost 
+
+1- 'cd' into the directory
+2- open terminal 
+3- run command: python3 -m http.server 8000
+4- open in Google Chrome for best experience: http://0.0.0.0:8000/
